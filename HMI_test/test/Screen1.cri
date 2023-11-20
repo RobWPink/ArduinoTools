@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.50.73.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="Screen1.AnalogNumeric" TargetProperty="FontFamily" Source="Tahoma" />
+        <Item Target="Screen1.AnalogNumeric1" TargetProperty="FontFamily" Source="Tahoma" />
+        <Item Target="Screen1.AnalogNumeric2" TargetProperty="FontFamily" Source="Tahoma" />
+        <Item Target="Screen1.Button" TargetProperty="FontFamily" Source="Tahoma" />
+        <Item Target="Screen1.Button1" TargetProperty="FontFamily" Source="Tahoma" />
+        <Item Target="Screen1.AnalogNumeric3" TargetProperty="FontFamily" Source="Tahoma" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="Screen1.AnalogNumeric" TargetProperty="Value" Source="Tags.Tag1" />
+        <Item Target="Screen1.AnalogNumeric1" TargetProperty="Value" Source="Tags.Tag2" />
+        <Item Target="Screen1.AnalogNumeric2" TargetProperty="Value" Source="Tags.Tag3" />
+        <Item Target="Screen1.Ellipse" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.bool1" />
+        <Item Target="Screen1.Ellipse1" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.bool3" />
+        <Item Target="Screen1.Ellipse2" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.bool2" />
+        <Item Target="Screen1.Button1" TargetProperty="Value" Source="Tags.bool4" />
+        <Item Target="Screen1.AnalogNumeric3" TargetProperty="Value" Source="Tags.Tag4" />
+      </Items>
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Metadata">
+      <Items>
+        <Item xsi:type="DesignerProjectItemMetadata" ItemName="ScreenObjects">
+          <Details>
+            <Detail>
+              <Key>Rectangle</Key>
+              <Value>1</Value>
+            </Detail>
+            <Detail>
+              <Key>AnalogNumericFX</Key>
+              <Value>4</Value>
+            </Detail>
+            <Detail>
+              <Key>Ellipse</Key>
+              <Value>3</Value>
+            </Detail>
+            <Detail>
+              <Key>Button</Key>
+              <Value>2</Value>
+            </Detail>
+          </Details>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="MultipleLanguage">
+      <Items />
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items>
+        <Item Target="Screen1.Button1" Source="-402653814_Normal.bmp" />
+        <Item Target="Screen1.Button1" Source="-402653814_Pressed.bmp" />
+        <Item Target="Screen1.Button1" Source="-402653814_Disabled.bmp" />
+      </Items>
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>10</ObjectsCount>
+          <ScreenName>Screen1</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>Screen1</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items />
+    </Category>
+    <Category Name="StructuredTag">
+      <Items />
+    </Category>
+    <Category Name="Symbol">
+      <Items />
+    </Category>
+    <Category Name="TextIDs">
+      <Items />
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

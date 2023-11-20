@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project SchemaVersion="2.50.73.0" ProjectRevision="6">
+  <Guid>8cc22d85-62f6-458e-8d2e-3c3d0452fe78</Guid>
+  <ProjectFiles>
+    <ProjectFile Name="ProjectImages.neo" ModifiedDate="2023-11-20T09:49:31.4605534-05:00" Length="484" />
+    <ProjectFile Name="SntpClientRootComponent.neo" ModifiedDate="2023-11-20T09:49:28.4779741-05:00" Length="545" />
+    <ProjectFile Name="ProjectConfiguration.neo" ModifiedDate="2023-11-20T09:49:28.5149789-05:00" Length="6407" />
+    <ProjectFile Name="Security.neo" ModifiedDate="2023-11-20T09:49:28.5609441-05:00" Length="479" />
+    <ProjectFile Name="Security.xml" ModifiedDate="2023-11-20T09:49:28.5699767-05:00" Length="693" />
+    <ProjectFile Name="Expressions.neo" ModifiedDate="2023-11-20T09:49:28.5969781-05:00" Length="487" />
+    <ProjectFile Name="Tags.neo" ModifiedDate="2023-11-20T10:37:09.2374069-05:00" Length="10347" />
+    <ProjectFile Name="MultipleLanguages.neo" ModifiedDate="2023-11-20T10:37:09.365438-05:00" Length="6379" />
+    <ProjectFile Name="LicenseRootComponent.neo" ModifiedDate="2023-11-20T09:49:33.5766456-05:00" Length="13431" />
+    <ProjectFile Name="AlarmServer.neo" ModifiedDate="2023-11-20T09:49:28.8979864-05:00" Length="1083" />
+    <ProjectFile Name="CloudConfiguration.neo" ModifiedDate="2023-11-20T09:49:28.9309871-05:00" Length="2516" />
+    <ProjectFile Name="Screen1.neoxaml" ModifiedDate="2023-11-20T10:37:09.3971158-05:00" Length="826" />
+    <ProjectFile Name="Screen1.xaml" ModifiedDate="2023-11-20T10:37:09.4311166-05:00" Length="14131" />
+    <ProjectFile Name="Printer1.xml" ModifiedDate="2023-11-20T09:49:29.4660059-05:00" Length="850" />
+    <ProjectFile Name="Controller1.neo" ModifiedDate="2023-11-20T10:37:09.6378934-05:00" Length="3046" />
+  </ProjectFiles>
+</Project>

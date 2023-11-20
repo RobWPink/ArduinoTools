@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?neo version='2.50.73.0' LastConverterVersion='2.50.1'?>
+<NeoItem d1p1:Serializer="Neo.ApplicationFramework.Common.Serialization.ObjectSerializer" xmlns:d1p1="urn:Neo.ApplicationFramework.Serializer">
+  <Object d1p1:type="Neo.ApplicationFramework.Tools.SNTP.SntpClientRootComponent, ToolsCF, Version=2.50.73.0, Culture=neutral, PublicKeyToken=null" IsEnabled="True" ServerName="time.windows.com" d1p1:Site.Name="SntpClientRootComponent" ProjectGuid="8cc22d85-62f6-458e-8d2e-3c3d0452fe78" />
+</NeoItem>

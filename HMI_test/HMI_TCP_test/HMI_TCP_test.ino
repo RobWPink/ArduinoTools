@@ -89,8 +89,6 @@ void pinModeSetup() {
   pinMode(CS, OUTPUT);
   digitalWrite(SS, LOW);
   digitalWrite(CS, HIGH);
-  pinMode(12, OUTPUT);
-  digitalWrite(12, 0);
   pinMode(ESTOP_BREAK, OUTPUT);
   digitalWrite(ESTOP_BREAK, HIGH);
 

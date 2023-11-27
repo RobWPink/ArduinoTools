@@ -35,7 +35,7 @@
 #define OE_ENABLE 21
 //---------------------------------------------------------------//
 //---------------------------------------------------------------//
-#define THINGSBOARD_CLID "NAV_SM_GM"
+#define THINGSBOARD_CLID "GM350_REFUELER"
 #define FIRMWARE_VERSION "09.06.2022"
 #define THINGSBOARD_PASS  "test1234"
 //---------------------------------------------------------------//

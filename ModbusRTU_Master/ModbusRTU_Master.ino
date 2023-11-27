@@ -14,13 +14,13 @@ bool cbWrite(Modbus::ResultCode event, uint16_t transactionId, void* data){ //ca
 void setup() {
   Serial.begin(9600);
   pinModeSetup();
-  Serial1.begin(1200, SERIAL_8N1);
-  Serial3.begin(1200, SERIAL_8N1);
+  Serial1.begin(9600, SERIAL_8N1);
+  Serial3.begin(9600, SERIAL_8N1);
   mbM1.begin(&Serial1,12);
-  mbM1.setBaudrate(1200);
+  mbM1.setBaudrate(9600);
   mbM1.master();
   mbM2.begin(&Serial3,31);
-  mbM2.setBaudrate(1200);
+  mbM2.setBaudrate(9600);
   mbM2.master();
 }
 

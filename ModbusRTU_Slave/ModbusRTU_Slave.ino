@@ -6,12 +6,12 @@
 unsigned long timer = 0;
 ModbusRTU      mbRTU;
 void setup() {
-  Serial1.begin(1200, SERIAL_8N1);
-  Serial3.begin(1200, SERIAL_8N1);
+  Serial1.begin(9600, SERIAL_8N1);
+  Serial3.begin(9600, SERIAL_8N1);
   Serial.begin(9600);
   //pinModeSetup();
   mbRTU.begin(&Serial1,12);
-  mbRTU.setBaudrate(1200);
+  mbRTU.setBaudrate(9600);
   mbRTU.slave(30); 
   mbRTU.addIreg(0,5,100);
   mbRTU.addHreg(0,3,100);
